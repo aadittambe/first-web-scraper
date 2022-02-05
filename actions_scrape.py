@@ -6,7 +6,7 @@ import numpy as np
 import selenium
 import csv
 from datetime import date
-
+import time
 
 # selenium options
 from selenium import webdriver
@@ -52,9 +52,10 @@ def get_data():
                         "office_region", "current_confirmed_cases", "confirmed_deaths", "total_confirmed_cases"])
     # take out bigger office names
     today = date.today()
-    data = data.replace(to_replace='None', value=np.nan).dropna()
-    data.to_csv("tsa_data/main_log/log.csv", index=False)
-    data.to_csv(f"tsa_data/log_daily/log_{today}.csv", index=False)
+    data.to_csv(f"data/ice_covid/data_{today}.csv", index=False)
+    with open(f'logs/log_record_{time.strftime("%Y%m%d-%H%M%S")}.txt', "w") as f:
+        f.write(
+            f'Scraper ran on {time.strftime("%Y%m%d-%H%M%S")}')
 
 
 get_data()

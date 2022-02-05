@@ -19,7 +19,7 @@ for row in table.find_all('tr'):
         list_of_cells.append(text)
     list_of_rows.append(list_of_cells)
 
-outfile = open("reports.csv", "w")
+outfile = open("data/maryland_audits/reports.csv", "w")
 writer = csv.writer(outfile)
 writer.writerow(["date", "type", "url", "title"])
 writer.writerows(list_of_rows)
