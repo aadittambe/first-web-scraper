@@ -30,7 +30,7 @@ jobs:
       - name: Scrape and log
         shell: bash
         run: |
-          python actions_scrape.py
+          python git_scraping.py
       - name: Add and commit and push
         run: |
           git fetch
