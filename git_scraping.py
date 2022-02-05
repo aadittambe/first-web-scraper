@@ -1,3 +1,10 @@
+# I read the following story by The Washington Post about a surge in cases in ICE detention centers in the U.S. I did a Google search and found that ICE publicly releases how many people are currently positive for Covid, how many have died, and how many have had Covid at one point.
+# https: // www.washingtonpost.com/national-security/2022/02/01/covid-migrants-ice-detention/
+
+# Value of this data set:
+# As a group that is more vulnerable than the rest of the population and often lacks the resources to file complaints or lawsuits, I thought it would be worth looking at how many people in ICE detention centers are testing positive, and create a visualization that updates in real time.
+
+
 # import libraries
 import pandas as pd
 from bs4 import BeautifulSoup
