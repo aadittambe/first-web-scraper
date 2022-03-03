@@ -1,0 +1,164 @@
+office_region,current_confirmed_cases,confirmed_deaths,total_confirmed_cases
+,,,
+Atlanta Field Office,,,
+Charleston County Detention Center,0,0,2
+Columbia Regional Care Center,0,0,1
+Folkston Annex (IHSC),3,0,139
+Folkston ICE Processing Center (Main),12,0,399
+Irwin County Detention Center,0,0,146
+Robert A. Deyton Detention Center,0,0,6
+Sheriff Al Cannon Detention Center,0,0,1
+Stewart Detention Center,1,4,"1,513"
+Baltimore Field Office,,,
+Dorchester County Jail,10,0,16
+Howard County Detention Center,0,0,2
+Worcester County Jail,0,0,2
+Boston Field Office,,,
+Bristol County Detention Center,0,0,9
+Cumberland County Jail,0,0,1
+Franklin County House of Corrections,0,0,9
+Plymouth County Correctional Facility,20,0,74
+Strafford County Corrections,3,0,25
+Wyatt Detention Center,0,0,60
+Buffalo Field Office,,,
+Buffalo (Batavia) Service Processing Center,2,0,215
+Chicago Field Office,,,
+Boone County Jail,3,0,23
+Chase County Detention Facility,6,0,171
+Clay County Justice Center,7,0,54
+Dodge County Jail,6,0,19
+Kankakee County Detention Center,1,0,24
+Kay County Detention Center,9,0,22
+Lincoln County Detention Center,0,0,1
+McHenry County Adult Correctional Facility,11,0,45
+Montgomery County Jail,0,0,1
+Morgan County Detention Center,0,0,3
+Pulaski County Detention Center,0,0,118
+Dallas Field Office,,,
+Bluebonnet Detention Facility,13,0,896
+Eden Detention Center,0,0,221
+Johnson County Law Enforcement Center,0,0,4
+Moore Detention Center,0,0,103
+Prairieland Detention Facility,1,0,603
+Rolling Plains Detention Center,0,0,66
+Denver Field Office,,,
+Aurora Contract Detention Facility,19,0,714
+Detroit Field Office,,,
+Butler County Jail,0,0,2
+Calhoun County Correctional Center,3,0,64
+Geauga County Jail,2,0,15
+Monroe County Detention,0,0,3
+Morrow County Correctional Facility,0,0,51
+Saint Clair County Jail,0,0,17
+Seneca County Jail,0,0,20
+El Paso Field Office,,,
+Best Western Hotel - El Paso,0,0,359
+Cibola County Correctional Center,0,0,44
+Comfort Suites - El Paso,0,0,359
+El Paso Service Processing Center,16,0,"1,189"
+Otero County Processing Center,5,0,932
+Torrance County Detention Center,8,0,425
+Harlingen Field Office,,,
+Coastal Bend Detention Facility,0,0,19
+El Valle Detention Facility,66,1,942
+Laredo Processing Center,23,0,291
+Port Isabel Detention Center,5,0,"1,843"
+Rio Grande Detention Center,5,0,489
+Webb County Detention Center (CCA),40,0,362
+Houston Field Office,,,
+Houston Contract Detention Facility,32,0,"1,164"
+IAH Polk Adult Detention Facility,34,0,"1,417"
+Joe Corley Detention Center,10,1,682
+Limestone County Detention Center,0,0,378
+Montgomery Processing Center (Houston),19,0,873
+Los Angeles Field Office,,,
+Adelanto ICE Processing Center,0,0,272
+Desert View Annex,1,0,40
+Miami Field Office,,,
+Baker County Detention Center,0,0,34
+Broward Transitional Center,3,0,477
+Glades County Detention Center,1,1,202
+Krome North Service Processing Center,2,0,399
+Larkin Behavioral Health Center,0,0,2
+San Juan Staging Facility,0,0,5
+Wakulla County Jail,0,0,43
+Newark Field Office,,,
+Elizabeth Detention Center,0,0,182
+Essex County Jail,0,0,24
+New Orleans Field Office,,,
+Adams County Correctional Center,11,1,"1,221"
+Alexandria Staging Facility,32,0,421
+Allen Parish Detention Center,0,0,32
+Catahoula Correctional Center,0,0,119
+Etowah County Jail,2,0,77
+Hancock County Jail,0,0,1
+Jackson Parish Correctional,1,0,548
+LaSalle ICE Processing Center - Jena,9,0,532
+LaSalle ICE Processing Center - Olla,0,0,25
+Pine Prairie ICE Processing Center,0,0,228
+Richwood Correctional Center,3,0,579
+River Correctional Center,0,0,117
+South Louisiana Correctional Center,0,0,131
+Winn Correctional Center,6,1,669
+New York City Field Office,,,
+Bergen County Jail,0,0,26
+Hudson County Jail,0,0,14
+Orange County Jail,0,0,28
+Philadelphia Field Office,,,
+Berks Family Residential Center,1,0,6
+Cambria County Prison,0,0,15
+Clinton County Correctional Facility,3,0,74
+MoShannon Valley Processing Center,6,0,48
+Pike County Correctional Facility,0,0,45
+South Central Regional Jail,0,0,2
+York County Prison,0,0,352
+Phoenix Field Office,,,
+CCA Florence Correctional Center,1,0,558
+Eloy Federal Contract Facility,2,0,"1,439"
+Florence Correctional Center,0,0,4
+Florence Detention Center,1,0,273
+La Palma Correctional Facility,11,0,"2,996"
+Salt Lake City Field Office,,,
+Cache County Jail,0,0,15
+Henderson Detention Center,0,0,37
+Nevada Southern Detention Center,0,0,31
+Nye County Jail,1,0,82
+Washington County Jail,0,0,6
+San Antonio Field Office,,,
+Hotel Ava by Ramada (House of Tranquility),26,0,406
+Karnes County Residential Center,224,0,"2,744"
+La Quinta - Pearsall (House of Peace),12,0,252
+La Quinta - Wyndham,17,0,259
+LaSalle County Regional Detention Center,0,0,11
+South Texas Family Residential Center (Dilley),12,0,"1,929"
+South Texas ICE Processing Center (Pearsall),86,0,"1,587"
+T. Don Hutto Residential Center,149,0,533
+San Diego Field Office,,,
+Imperial Regional Detention Facility,0,0,556
+Otay Mesa Detention Center (San Diego CDF),1,1,999
+San Luis Regional Detention Center,9,0,266
+San Francisco Field Office,,,
+Golden State Annex Facility,0,0,64
+Guam Department of Corrections,0,0,1
+Honolulu Federal Detention Center,0,0,4
+Mesa Verde ICE Processing Center,0,0,60
+Yuba County Jail,0,0,8
+Seattle Field Office,,,
+Northwest ICE Processing Center (NWIPC),0,0,389
+Ramsey County Adult Detention Center,0,0,1
+St. Paul Field Office,,,
+Douglas County Corrections,0,0,1
+Freeborn County Adult Detention Center,0,0,18
+Hall County Sheriff,0,0,5
+Hardin County Jail,0,0,7
+Kandiyoh County Jail,1,0,64
+Linn County Jail,0,0,4
+Nobles County Jail,0,0,2
+Phelps County Jail,0,0,2
+Polk County Jail,0,0,17
+Pottawattamie County Jail,0,0,5
+Sherburne County Jail,0,0,7
+Washington D.C. Field Office,,,
+Caroline Detention Facility,0,0,149
+Immigration Centers of America - Farmville,1,1,340
+TOTAL,"1,030",11,"40,769"
